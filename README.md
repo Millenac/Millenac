@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 * ✉️  You can contact me at [milllenaalmeida@hotmail.com](mailto:milllenaalmeida@hotmail.com)
-* 🧠  I'm learning Data Science
 
 ### Skills
 
