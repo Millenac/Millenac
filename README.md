@@ -19,5 +19,5 @@
 <p align="center"> <a href="https://www.github.com/Millenac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/milllenaalmeida/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Millenac&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Millenac" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Millenac&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Millenac" /></p>
 </div>
