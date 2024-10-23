@@ -21,5 +21,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Millenac&locale=en&hide_title=false&layout=compact&card_width=440&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Millenac&show_icons=true&locale=en&theme=transparent" alt="Millenac" /></p>
 </div>
