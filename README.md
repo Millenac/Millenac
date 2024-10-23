@@ -1,5 +1,4 @@
 <h1 align="center">Oi👋, Sou Millena</h1>
-===============================================================================================================================
 
 * ✉️  You can contact me at [milllenaalmeida@hotmail.com](mailto:milllenaalmeida@hotmail.com)
 
