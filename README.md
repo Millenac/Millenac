@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=26&pause=1000&color=518AF7&center=true&vCenter=true&random=false&width=540&height=30&lines=+Hello!+My+name+is+Millena+Almeida!" />
   </a>
 </p>
-
+<br>
 
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
