@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=26&pause=1000&color=518AF7&center=true&vCenter=true&random=false&width=540&height=30&lines=+Hello+my+name+is+Millena+Almeida; alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=26&pause=1000&color=518AF7&center=true&vCenter=true&random=false&width=540&height=30&lines=+Hello,+my+name+is+Millena+Almeida; alt="Typing SVG" /></a>
 </p>
 
 * ✉️  You can contact me at [milllenaalmeida@hotmail.com](mailto:milllenaalmeida@hotmail.com)
