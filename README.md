@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=26&pause=1000&color=518AF7&center=true&vCenter=true&random=false&width=540&height=30&lines=+Hello!+My+name+is+Millena+Almeida!" />
   </a>
 </p>
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;" />
+<hr style="border: none; border-top: 1px solid rgba(0, 0, 0, 0.1); margin: 20px 0;" />
+
 
 
 <p align="center">
