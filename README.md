@@ -2,8 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=26&pause=1000&color=518AF7&center=true&vCenter=true&random=false&width=540&height=30&lines=+Hello!+My+name+is+Millena+Almeida!" /></a>
 </p>
 
-* ✉️  You can contact me at [milllenaalmeida@hotmail.com](mailto:milllenaalmeida@hotmail.com)
-
 ### Skills
 
 <p align="left">
@@ -19,7 +17,6 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Millenac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/milllenaalmeida/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 
 <div align="left">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Millenac&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Millenac" /></p>
